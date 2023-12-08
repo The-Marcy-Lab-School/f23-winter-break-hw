@@ -44,6 +44,9 @@ This option is pretty straightforward. If you enjoyed building one of these solo
 - [Build Tic Tac Toe](https://www.youtube.com/watch?v=sNn_Gxph3TY&ab_channel=CodinginPublic)
   - Same thing here for `localStorage`. Maybe save the game state so you can leave a game mid-game and return to it?
   - Try to make this one using Vite!
+- [Learn about Kaboom.js and make flappy bird!](https://www.youtube.com/watch?v=hgReGsh5xVU&ab_channel=Replit)
+  - Same thing here for `localStorage`. Saving high scores should be a good option!
+  - If you can, make this using Vite! 
 
 ## Create your own Project From Scratch
 
