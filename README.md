@@ -6,6 +6,7 @@
   - [The Other Solo-Project-Week Project](#the-other-solo-project-week-project)
   - [Follow a Tutorial](#follow-a-tutorial)
   - [Create your own Project From Scratch](#create-your-own-project-from-scratch)
+  - [Learn Python](#learn-python)
 - [Make-up work](#make-up-work)
 
 We hope that you have a restful break, but the truth is **it doesn't take long to forget how to code**! During your time off, you need to be coding weekly to keep your skills up. When we return, we will jump straight into Asynchronous JavaScript, which will rely on everything you just learned about the DOM, so there's no time for you to be rusty!
@@ -49,6 +50,12 @@ This option is pretty straightforward. If you enjoyed building one of these solo
 This is the most time-consuming project and is only recommended if you are already super comfortable with DOM Manipulation and localStorage. The requirements are exactly the same as our API project. If you aren't comfortable with DOM or `localStorage` yet, we do not recommend this option. Planning a project takes time, we want to be respectful of yours. You do not have to write a formal proposal and wait for approval — build what you want! However, we recommend you take some time to plan the project on your own, as that's extremely helpful.
 
 But don't get carried away with the planning and complexity! Remember, the goal of the break project is to be familiar with DOM and comfortable putting together a multi-file project.
+
+## Learn Python
+
+And lastly, for those of you who are interested in participating in the JP Morgan Chase Super Day, you will need to know Python. You should only choose in this option if you are fully comfortable with DOM manipulation. 
+
+Instead of building a project, you should complete the [Learn Python 3 course on Codecademy](https://www.codecademy.com/learn/learn-python-3).
 
 # Tech Rubric
 To see how well you're doing with this project, here are all the things we would like to see from you. As you can see, it is pretty open-ended!
