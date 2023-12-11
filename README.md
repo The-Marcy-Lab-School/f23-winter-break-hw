@@ -1,6 +1,6 @@
 # Winter Workshop Project Requirements
 
-- [Winter Workshop Project Requirements](#winter-workshop-project-requirements)
+- [Overview](#overview)
     - [Make-up work](#make-up-work)
     - [How to Submit](#how-to-submit)
 - [Projects](#projects)
@@ -11,6 +11,7 @@
 - [Tech Rubric](#tech-rubric)
 - [Project Milesones](#project-milestones)
 
+## Overview
 
 We hope that you have a restful break, but the truth is **it doesn't take long to forget how to code**! During your time off, you need to be coding weekly to keep your skills up. When we return, we will jump straight into Asynchronous JavaScript, which will rely on everything you just learned about the DOM, so there's no time for you to be rusty!
 
@@ -18,26 +19,26 @@ There are three different projects for this challenge, and we will work with you
 
 You've put so much effort into getting to where you are. Let's not take our foot off the pedal just yet!
 
-## Make-up work
+### Make-up work
 If you have any make-up work, you must use the break to complete it. We will be in touch about what past work we need to see completed over break. Make-up work should be completed before taking on a project.
 
-## How to Submit
+### How to Submit
 You will have to submit your GitHub repo link for this project. You should deploy these projects using GitHub pages if you can.
 
 Here are some resources to help you get started and to deploy (which you can do from the start if you wish)!
 * [Getting Started with a Vanilla JS Vite Project](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js/tree/main)
 * [Deploying a Vite Project with Github Pages](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
 
-# Projects
+## Projects
 
-## The Other Solo-Project-Week Project
+### The Other Solo-Project-Week Project
 
 This option is pretty straightforward. If you enjoyed building one of these solo-project-week projects, then give the other one a go! Each project has interesting challenges, yet much of the code you wrote for the first project will be useful in the second project. 
 
 - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
 - [Compare Movies with Chart.js](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
 
-## Follow a Tutorial
+### Follow a Tutorial
 
 - [Ben's Todo App](https://github.com/benspector-mls/f23-2-3-0-todo-app-example)
   - This project is perfect if you found the solo project week projects were too challenging. This project walks through step-by-step instructions on how to build a to-do list using many of the same techniques needed to build the solo-project-week project.
@@ -51,13 +52,13 @@ This option is pretty straightforward. If you enjoyed building one of these solo
   - Same thing here for `localStorage`. Saving high scores should be a good option!
   - If you can, make this using Vite! 
 
-## Create your own Project From Scratch
+### Create your own Project From Scratch
 
 This is the most time-consuming project and is only recommended if you are already super comfortable with DOM Manipulation and localStorage. The requirements are exactly the same as our API project. If you aren't comfortable with DOM or `localStorage` yet, we do not recommend this option. Planning a project takes time, we want to be respectful of yours. You do not have to write a formal proposal and wait for approval — build what you want! However, we recommend you take some time to plan the project on your own, as that's extremely helpful.
 
 But don't get carried away with the planning and complexity! Remember, the goal of the break project is to be familiar with DOM and comfortable putting together a multi-file project.
 
-## Learn Python
+### Learn Python
 
 And lastly, for those of you who are interested in participating in the JP Morgan Chase Super Day, you will need to know Python. You should only choose in this option if you are fully comfortable with DOM manipulation. 
 
@@ -65,7 +66,7 @@ Instead of building a project, you should complete the [Learn Python 3 course on
 
 Fellow taking on this path can skip the last two sections of this document.
 
-# Tech Rubric
+## Tech Rubric
 To see how well you're doing with this project, here are all the things we would like to see from you. As you can see, it is pretty open-ended!
 
 **Layout: Structure**
@@ -91,7 +92,7 @@ To see how well you're doing with this project, here are all the things we would
 - [ ] The code does not render unescaped text directly to the DOM (`createElement` or other escape method used)
 - [ ] `.innerHTML` or the `createElement/.append` pattern is used properly at some point in the project
 
-# Project Milestones
+## Project Milestones
 
 In Code Challenge, we use the PEDAC process to slow ourselves down and plan before diving straight in. The investment in planning upfront ends up saving us a lot of time and headaches down the line. The same is true when it comes to planning a project.
 
@@ -170,6 +171,6 @@ In addition to styling, remember to deploy your application so that the world ca
 
 Use this [Deploying with Github Pages resource](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) to help you out.
 
-### Additional Features
+### Additional Features (Day 5+)
 
 Your project is basically working! Now it is time to return to the user stories, sketch, and data storage API, and add new features!
