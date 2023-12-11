@@ -2,12 +2,15 @@
 
 - [Winter Workshop Project Requirements](#winter-workshop-project-requirements)
 - [How to Submit](#how-to-submit)
+- [Make-up work](#make-up-work)
 - [Projects](#projects)
   - [The Other Solo-Project-Week Project](#the-other-solo-project-week-project)
   - [Follow a Tutorial](#follow-a-tutorial)
   - [Create your own Project From Scratch](#create-your-own-project-from-scratch)
   - [Learn Python](#learn-python)
-- [Make-up work](#make-up-work)
+- [Tech Rubric](#tech-rubric)
+- [Project Milesones](#project-milestones)
+
 
 We hope that you have a restful break, but the truth is **it doesn't take long to forget how to code**! During your time off, you need to be coding weekly to keep your skills up. When we return, we will jump straight into Asynchronous JavaScript, which will rely on everything you just learned about the DOM, so there's no time for you to be rusty!
 
