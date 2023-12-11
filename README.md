@@ -1,8 +1,8 @@
 # Winter Workshop Project Requirements
 
 - [Winter Workshop Project Requirements](#winter-workshop-project-requirements)
-- [How to Submit](#how-to-submit)
-- [Make-up work](#make-up-work)
+  - [Make-up work](#make-up-work)
+  - [How to Submit](#how-to-submit)
 - [Projects](#projects)
   - [The Other Solo-Project-Week Project](#the-other-solo-project-week-project)
   - [Follow a Tutorial](#follow-a-tutorial)
@@ -18,15 +18,15 @@ There are three different projects for this challenge, and we will work with you
 
 You've put so much effort into getting to where you are. Let's not take our foot off the pedal just yet!
 
-# How to Submit
+## Make-up work
+If you have any make-up work, you must use the break to complete it. We will be in touch about what past work we need to see completed over break. Make-up work should be completed before taking on a project.
+
+## How to Submit
 You will have to submit your GitHub repo link for this project. You should deploy these projects using GitHub pages if you can.
 
 Here are some resources to help you get started and to deploy (which you can do from the start if you wish)!
 * [Getting Started with a Vanilla JS Vite Project](https://github.com/The-Marcy-Lab-School/2-3-0-resource_getting-started-vite-vanilla-js/tree/main)
 * [Deploying a Vite Project with Github Pages](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages)
-
-# Make-up work
-If you have any make-up work, you must use the break to complete it. We will be in touch about what past work we need to see completed over break. Make-up work should be completed before taking on a project.
 
 # Projects
 
