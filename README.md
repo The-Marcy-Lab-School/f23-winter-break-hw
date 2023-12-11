@@ -1,13 +1,13 @@
 # Winter Workshop Project Requirements
 
 - [Winter Workshop Project Requirements](#winter-workshop-project-requirements)
-  - [Make-up work](#make-up-work)
-  - [How to Submit](#how-to-submit)
+    - [Make-up work](#make-up-work)
+    - [How to Submit](#how-to-submit)
 - [Projects](#projects)
-  - [The Other Solo-Project-Week Project](#the-other-solo-project-week-project)
-  - [Follow a Tutorial](#follow-a-tutorial)
-  - [Create your own Project From Scratch](#create-your-own-project-from-scratch)
-  - [Learn Python](#learn-python)
+    - [The Other Solo-Project-Week Project](#the-other-solo-project-week-project)
+    - [Follow a Tutorial](#follow-a-tutorial)
+    - [Create your own Project From Scratch](#create-your-own-project-from-scratch)
+    - [Learn Python](#learn-python)
 - [Tech Rubric](#tech-rubric)
 - [Project Milesones](#project-milestones)
 
@@ -68,22 +68,22 @@ Fellow taking on this path can skip the last two sections of this document.
 # Tech Rubric
 To see how well you're doing with this project, here are all the things we would like to see from you. As you can see, it is pretty open-ended!
 
-## Layout: Structure
+**Layout: Structure**
 - [ ] There is a single `main` element on the page
 - [ ] There is a single `h1` element on the page
 - [ ] There is a `title` in the `head`
 
-## layout: Accessibility
+**Layout: Accessibility**
 - [ ] Forms have an `aria-label` or `aria-labelledby` attribute that describes the form
 - [ ] Forms have `h2` labels
 - [ ] Sections have an `aria-label` or `aria-labelledby` attribute that describes the section
 - [ ] There are no instances of recreating any semantic elements (for example, don't use a `div` when a `nav` will do)
 
-## Functionality
+**Functionality**
 - [ ] Data is stored in `localStorage`
 - [ ] There is some degree of user event interaction
 
-## Meta
+**Meta**
 - [ ] The project is created using Vite
 - [ ] The code exists in more than one JS file
 - [ ] The project is deployed via GitHub Pages properly
