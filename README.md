@@ -98,8 +98,7 @@ In Code Challenge, we use the PEDAC process to slow ourselves down and plan befo
 
 While each project is unique, there are common features of every project and we can break down a project into these milestones. Though the duration of each milestone will vary within each project, breaking down the project into these steps will help you stay on track.
 
-Day 1 should be focused on planning and setup
-Day 2 should be focused on 
+Use these milestones as a guide as you build your project.
 
 ### User Stories (Day 1)
 
