@@ -9,7 +9,7 @@
     - [Create your own Project From Scratch](#option-3---create-your-own-project-from-scratch)
     - [Learn Python](#option-4---learn-python)
 - [Tech Rubric](#tech-rubric)
-- [Project Milesones](#project-milestones)
+- [Project Milestones](#project-milestones)
 
 ## Overview
 
