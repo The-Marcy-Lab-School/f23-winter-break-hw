@@ -4,10 +4,10 @@
     - [Make-up work](#make-up-work)
     - [How to Submit](#how-to-submit)
 - [Projects](#projects)
-    - [The Other Solo-Project-Week Project](#the-other-solo-project-week-project)
-    - [Follow a Tutorial](#follow-a-tutorial)
-    - [Create your own Project From Scratch](#create-your-own-project-from-scratch)
-    - [Learn Python](#learn-python)
+    - [The Other Solo-Project-Week Project](#option-1---the-other-solo-project-week-project)
+    - [Follow a Tutorial](#option-2---follow-a-tutorial)
+    - [Create your own Project From Scratch](#option-3---create-your-own-project-from-scratch)
+    - [Learn Python](#option-4---learn-python)
 - [Tech Rubric](#tech-rubric)
 - [Project Milesones](#project-milestones)
 
@@ -31,14 +31,14 @@ Here are some resources to help you get started and to deploy (which you can do 
 
 ## Projects
 
-### The Other Solo-Project-Week Project
+### Option 1 - The Other Solo-Project-Week Project
 
 This option is pretty straightforward. If you enjoyed building one of these solo-project-week projects, then give the other one a go! Each project has interesting challenges, yet much of the code you wrote for the first project will be useful in the second project. 
 
 - [Palette Picker](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_palette-picker)
 - [Compare Movies with Chart.js](https://github.com/The-Marcy-Lab-School/2-3-0-solo-project_compare-movies)
 
-### Follow a Tutorial
+### Option 2 - Follow a Tutorial
 
 - [Ben's Todo App](https://github.com/benspector-mls/f23-2-3-0-todo-app-example)
   - This project is perfect if you found the solo project week projects were too challenging. This project walks through step-by-step instructions on how to build a to-do list using many of the same techniques needed to build the solo-project-week project.
@@ -52,13 +52,13 @@ This option is pretty straightforward. If you enjoyed building one of these solo
   - Same thing here for `localStorage`. Saving high scores should be a good option!
   - If you can, make this using Vite! 
 
-### Create your own Project From Scratch
+### Option 3 - Create your own Project From Scratch
 
 This is the most time-consuming project and is only recommended if you are already super comfortable with DOM Manipulation and localStorage. The requirements are exactly the same as our API project. If you aren't comfortable with DOM or `localStorage` yet, we do not recommend this option. Planning a project takes time, we want to be respectful of yours. You do not have to write a formal proposal and wait for approval — build what you want! However, we recommend you take some time to plan the project on your own, as that's extremely helpful.
 
 But don't get carried away with the planning and complexity! Remember, the goal of the break project is to be familiar with DOM and comfortable putting together a multi-file project.
 
-### Learn Python
+### Option 4 - Learn Python
 
 And lastly, for those of you who are interested in participating in the JP Morgan Chase Super Day, you will need to know Python. You should only choose in this option if you are fully comfortable with DOM manipulation. 
 
