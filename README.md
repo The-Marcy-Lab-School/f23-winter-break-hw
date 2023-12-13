@@ -100,7 +100,7 @@ While each project is unique, there are common features of every project and we 
 
 Use these milestones as a guide as you build your project.
 
-### User Stories (Day 1)
+**<details><summary>User Stories (Day 1)</summary>**
 
 A user story is a description of what the user can do using your application. For example:
 
@@ -111,7 +111,9 @@ A user story is a description of what the user can do using your application. Fo
 
 User stories should be completed on the first day of planning and should take only an hour or so to complete. You can always return to add new user stories or remove/modify existing ones.
 
-### Rough Sketch of the Application (Day 1)
+</details><br>
+
+**<details><summary>Rough Sketch of the Application (Day 1)</summary>**
 
 You should have a _very_ rough idea of how the Minimum Viable Product (MVP) application will look. The key here is to know what key components the application will need at minimum:
 * What are the major sections of your application?
@@ -123,7 +125,9 @@ Keep this low fidelity. You can draw this on a scrap piece of paper with a penci
 
 The key is envisioning what the application will look like with **little-to-no styling** so that you have something to work with at the start. Just like the user stories, you can always return to this to create a higher-fidelity design once the core features of your application have been built.
 
-### Github Repo & Vite Setup (Day 1)
+</details><br>
+
+**<details><summary>Github Repo & Vite Setup (Day 1)</summary>**
 
 Once you know what your application will do and what visual components it will need, you can start setting up your project. 
 
@@ -132,7 +136,9 @@ Once you know what your application will do and what visual components it will n
 * Remove any unnecessary starter code
 * Set up the basic HTML layout of your page. Focus only on the static HTML components (`main`, navigation, headers, major `section`s, any `form`s you need).
 
-### Data Layer (Day 2)
+</details><br>
+
+**<details><summary>Data Layer (Day 2)</summary>**
 
 Dedicate an entire day to figuring out your data. This step will require a fair bit of planning as well. You will want to answer these questions at minimum:
 
@@ -147,7 +153,9 @@ Once these questions have been answered, you can begin building the API for your
 
 Make sure to test out your data storage API by importing those functions into a main file and see if all of the functions you created work as expected.
 
-### Connect Data to User Interface (Day 3)
+</details><br>
+
+**<details><summary>Connect Data to User Interface (Day 3)</summary>**
 
 The goal here is to confirm that your data storage layer is connected to your user interface layer.
 
@@ -157,7 +165,9 @@ At minimum, the user should be able to create new data, insert that data in the 
 
 Styling at this point is not important. We only need raw data rendered to the screen. 
 
-### Styling and Deployment (Day 4)
+</details><br>
+
+**<details><summary>Styling and Deployment (Day 4)</summary>**
 
 Your data layer is working, your user interface can handle user interactions, and all of your core functionality is implemented. Now, it is time to style!
 
@@ -170,6 +180,11 @@ In addition to styling, remember to deploy your application so that the world ca
 
 Use this [Deploying with Github Pages resource](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) to help you out.
 
-### Additional Features (Day 5+)
+</details><br>
+
+**<details><summary>Additional Features (Day 5+)</summary>**
+
 
 Your project is basically working! Now it is time to return to the user stories, sketch, and data storage API, and add new features!
+
+</details><br>
