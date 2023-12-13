@@ -111,7 +111,7 @@ A user story is a description of what the user can do using your application. Fo
 
 User stories should be completed on the first day of planning and should take only an hour or so to complete. You can always return to add new user stories or remove/modify existing ones.
 
-</details><br>
+</details>
 
 **<details><summary>Rough Sketch of the Application (Day 1)</summary>**
 
@@ -125,7 +125,7 @@ Keep this low fidelity. You can draw this on a scrap piece of paper with a penci
 
 The key is envisioning what the application will look like with **little-to-no styling** so that you have something to work with at the start. Just like the user stories, you can always return to this to create a higher-fidelity design once the core features of your application have been built.
 
-</details><br>
+</details>
 
 **<details><summary>Github Repo & Vite Setup (Day 1)</summary>**
 
@@ -136,7 +136,7 @@ Once you know what your application will do and what visual components it will n
 * Remove any unnecessary starter code
 * Set up the basic HTML layout of your page. Focus only on the static HTML components (`main`, navigation, headers, major `section`s, any `form`s you need).
 
-</details><br>
+</details>
 
 **<details><summary>Data Layer (Day 2)</summary>**
 
@@ -153,7 +153,7 @@ Once these questions have been answered, you can begin building the API for your
 
 Make sure to test out your data storage API by importing those functions into a main file and see if all of the functions you created work as expected.
 
-</details><br>
+</details>
 
 **<details><summary>Connect Data to User Interface (Day 3)</summary>**
 
@@ -165,7 +165,7 @@ At minimum, the user should be able to create new data, insert that data in the 
 
 Styling at this point is not important. We only need raw data rendered to the screen. 
 
-</details><br>
+</details>
 
 **<details><summary>Styling and Deployment (Day 4)</summary>**
 
@@ -180,11 +180,11 @@ In addition to styling, remember to deploy your application so that the world ca
 
 Use this [Deploying with Github Pages resource](https://github.com/The-Marcy-Lab-School/2-3-3-resource_deploying-with-github-pages) to help you out.
 
-</details><br>
+</details>
 
 **<details><summary>Additional Features (Day 5+)</summary>**
 
 
 Your project is basically working! Now it is time to return to the user stories, sketch, and data storage API, and add new features!
 
-</details><br>
+</details>
